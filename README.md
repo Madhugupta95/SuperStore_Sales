@@ -1,1 +1,1 @@
-![download](https://github.com/Madhugupta95/SuperStore_Sales/assets/117964914/393e4015-67c7-43d5-aefa-9ec1788d73eb)
+![Hong-Kong-protests-Supermarket-sales-increase-while-other-retail-sectors-feel-the-pinch](https://github.com/Madhugupta95/SuperStore_Sales/assets/117964914/372629d6-89e3-4475-9268-d6dfacb1dbf6)
