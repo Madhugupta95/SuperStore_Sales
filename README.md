@@ -36,6 +36,10 @@ This project is a Superstore dashboard created using Power BI to analyze multipl
 ## Superstore Sales & Profit Dashboard
 
 This dashboard provides comprehensive insights into sales performance and profitability across different product categories and customer segments. Leveraging Power BI and advanced analytics techniques, it empowers stakeholders to make informed decisions to drive business success.
+
+
+
+
 ![image](https://github.com/Madhugupta95/SuperStore_Sales/assets/117964914/9854e1eb-f88f-41b3-a04a-2c909157e06b)
 
 
