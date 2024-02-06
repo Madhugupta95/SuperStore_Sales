@@ -1,6 +1,6 @@
 ![Hong-Kong-protests-Supermarket-sales-increase-while-other-retail-sectors-feel-the-pinch](https://github.com/Madhugupta95/SuperStore_Sales/assets/117964914/372629d6-89e3-4475-9268-d6dfacb1dbf6)
 
-# ![Superstore Logo](superstore_logo.png) Superstore Dashboard in Power BI
+#Superstore Dashboard in Power BI
 
 ## Summary
 
@@ -9,7 +9,7 @@ This project is a Superstore dashboard created using Power BI to analyze multipl
 ## Tech Stack
 
 - Power BI
-- Data source: Superstore dataset (provided by [Tableau](https://community.tableau.com/docs/DOC-1236))
+- Data source: Superstore dataset
 
 ## Challenges
 
@@ -33,7 +33,7 @@ This project is a Superstore dashboard created using Power BI to analyze multipl
 
 ## Dashboard
 
-### ![Superstore Logo](superstore_logo.png) Superstore Sales & Profit Dashboard
+###Superstore Sales & Profit Dashboard
 
 This dashboard provides comprehensive insights into sales performance and profitability across different product categories and customer segments. Leveraging Power BI and advanced analytics techniques, it empowers stakeholders to make informed decisions to drive business success.
 
