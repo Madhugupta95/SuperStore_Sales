@@ -9,7 +9,7 @@ This project is a Superstore dashboard created using Power BI to analyze multipl
 ## Tech Stack
 
 - Power BI
-- Data source: Superstore dataset
+- Data source: Superstore dataset(https://docs.google.com/spreadsheets/d/1ZosyCNUcjapXemCTf-4inAPY3EyttwTz/edit?usp=sharing&ouid=116522009328911954842&rtpof=true&sd=true)
 
 ## Challenges
 
