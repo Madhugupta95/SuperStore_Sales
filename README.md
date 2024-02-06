@@ -41,6 +41,8 @@ This dashboard provides comprehensive insights into sales performance and profit
 
 The Superstore dashboard provides valuable insights into sales performance and profitability, enabling stakeholders to make data-driven decisions to improve business outcomes. By leveraging Power BI and the Superstore dataset, this project demonstrates the power of analytics in driving business success.
 
+*** Thank You ***
+
 
 
 
